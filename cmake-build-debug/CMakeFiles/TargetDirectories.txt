@@ -1,0 +1,3 @@
+C:/Users/gael8/CLionProjects/Spotify/cmake-build-debug/CMakeFiles/Spotify.dir
+C:/Users/gael8/CLionProjects/Spotify/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gael8/CLionProjects/Spotify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
